@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAsiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBoleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCancelacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEstadio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaAsientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaBoletos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaCancelaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaEstadios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaPartidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListasZonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menuprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
